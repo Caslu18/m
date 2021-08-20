@@ -2,5 +2,6 @@
 "name":"CASLU",
 "description":"Cardano Futuro de la Humanidad",
 "ticker":"CASLU,
+"extended":"https://raw.githubusercontent.com/Caslu18/m/main/extended.json",
 "homepage":"https://pool-caslu.jimdosite.com/"
 }
