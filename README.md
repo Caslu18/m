@@ -1,2 +1,0 @@
-# cardano
-POOL-CASLU
