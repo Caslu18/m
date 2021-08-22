@@ -24,8 +24,8 @@
         } 
     }, 
     " my-pool-ids " : { 
-        " 0 " : "pool1fatmstlhqf93wyhlnvpdr0ud78hj8k6cnk2062lqkcvpq6lw8wu", 
-        " 1 " : "4f57b82ff7024b1712ff9b02d1bf8df1ef23db589d94fd2be0b61810"
+        " 0 " : "4f57b82ff7024b1712ff9b02d1bf8df1ef23db589d94fd2be0b61810", 
+        " 1 " : ""
     }, 
     " telegram-admin-handle " : { 
         " 0 " : "PoolCaslu" 
