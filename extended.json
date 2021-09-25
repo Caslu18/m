@@ -5,7 +5,7 @@
         " ubicación " : " Cuenca, ECUADOR " , 
           " social " : { 
               " twitter_handle " : "EVAPOOL", 
-              " facebook_handle " : "Evapool Pooleva", 
+              " facebook_handle " : "EvapoolPooleva", 
               " telegram_handle " : "EvaPool" 
              }, 
         " empresa " : { 
@@ -23,7 +23,9 @@
         } 
     }, 
     " my-pool-ids " : { 
-        " 0 " : "4f57b82ff7024b1712ff9b02d1bf8df1ef23db589d94fd2be0b61810", 
+        " 0 " : "4f57b82ff7024b1712ff9b02d1bf8df1ef23db589d94fd2be0b61810",
+        "member_since": "2021-08-10",
+        "name": "EVA", 
         " 1 " : ""
     }, 
     " telegram-admin-handle " : { 
